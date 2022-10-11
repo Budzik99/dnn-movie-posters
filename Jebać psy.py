@@ -1,0 +1,1 @@
+Print('raz dwa trzy')
