@@ -1,1 +1,0 @@
-Print('raz dwa trzy')
